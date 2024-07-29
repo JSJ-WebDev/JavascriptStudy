@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "13d614774c98d7df",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b0716440f90125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000ac67964be6a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b40aa3b5abe8088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/JS 기본 문법 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "838cb98c9654dd45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "851399b2949722f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6375d74b77ac2d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c207a793183e185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/콜백(Call back) 함수 이해하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca622bf82f31cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24c17c26e26f0eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/bind() 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e0d7ebbf447a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ebdf533e428d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b48b46b5e67ec3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "912fc7e0263c7af5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa75976cecfbcef2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e47a2922ca9ed745",
+    "type": "split",
+    "children": [
+      {
+        "id": "84418da274d6d0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842f40a3f85136a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/bind() 함수.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "738dba968dc6970e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/bind() 함수.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83fc3834b02f7f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a40b850b07259b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/bind() 함수.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24c17c26e26f0eb5",
+  "lastOpenFiles": [
+    "Javascript/DOM(Document Object Model).md",
+    "Javascript/Untitled.canvas",
+    "Javascript/JavaScript.md",
+    "Javascript/bind() 함수.md",
+    "Javascript/함수.md",
+    "Javascript/콜백(Call back) 함수 이해하기.md",
+    "CSS/CSS.md",
+    "CSS",
+    "Javascript/JS 기본 문법 정리.md",
+    "Javascript",
+    "2024-07-21.md",
+    "Javascript/메모리 관리.md",
+    "Javascript/힙 과 스택 영역.md",
+    "Javascript/변수.md",
+    "Untitled 1.canvas"
+  ]
+}
